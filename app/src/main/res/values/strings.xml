@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TManage</string>
+    <string name="button_login_text">Accedi</string>
+</resources>

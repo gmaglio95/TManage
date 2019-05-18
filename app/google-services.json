@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478015563603",
+    "firebase_url": "https://tmanage-28595.firebaseio.com",
+    "project_id": "tmanage-28595",
+    "storage_bucket": "tmanage-28595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478015563603:android:0144b63641a31670",
+        "android_client_info": {
+          "package_name": "it.gmaglio.tmanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478015563603-2mrrbia0pd7675122fdslblonhhgeurg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.gmaglio.tmanage",
+            "certificate_hash": "da9a26dcf28c5b168f4c83cc16edd48dab6ef34e"
+          }
+        },
+        {
+          "client_id": "478015563603-dqe66kfbuiqdlraf2gp0b4mfeudpemj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfSVbtml1mjC3HJRz2RwId_0WCgqqSNz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478015563603-dqe66kfbuiqdlraf2gp0b4mfeudpemj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
